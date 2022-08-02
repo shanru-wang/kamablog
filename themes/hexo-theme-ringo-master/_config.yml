@@ -4,15 +4,20 @@ language: zh-CN
 
 # main menu navigation
 menu:
-  #Home: /
-  #About: /about
-  #Contact: /contact
+  Home: /
+  About: /about
+  Friendly link: https://qizhen-yang.cn
   #Archives: /archives
+  
+ social:
+  E-Mail: mailto:swang_0711@163.com || fas fa-envelope
+  GitHub: https://github.com/shanru-wang || fab fa-github
+  Weibo: https://weibo.com/u/7504998369 || fab fa-weibo
 
 # Highlight.js
 # Theme: https://highlightjs.org/static/demo/
 highlight:
-  enable: true
+  enable: false
   theme: default
 
 # Prettify
@@ -24,8 +29,8 @@ prettify:
 footer:
   owner:
     enable: true
-    since: 2020
-  custom_text: 
+    since: 2019
+  custom_text: Coding to serve the world since long.
   ICP: # Chinese ICP License
     enable: false
     url:
