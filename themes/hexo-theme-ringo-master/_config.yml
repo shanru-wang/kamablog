@@ -6,10 +6,10 @@ language: zh-CN
 menu:
   Home: /
   About: /about
-  Friendly link: https://qizhen-yang.cn
+  Friendly link: /https://qizhen-yang.cn
   #Archives: /archives
   
- social:
+social:
   E-Mail: mailto:swang_0711@163.com || fas fa-envelope
   GitHub: https://github.com/shanru-wang || fab fa-github
   Weibo: https://weibo.com/u/7504998369 || fab fa-weibo
