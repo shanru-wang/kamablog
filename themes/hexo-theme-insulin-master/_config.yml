@@ -15,10 +15,9 @@ menu:
 
 # 社交链接
 social:
-  E-Mail: mailto:kb1000fx@gmail.com || fas fa-envelope
-  GitHub: https://github.com/kb1000fx || fab fa-github
-  Steam: https://steamcommunity.com/profiles/76561198346798163 || fab fa-steam
-  Weibo: https://weibo.com/kb1000fx || fab fa-weibo
+  E-Mail: mailto:swang_0711@163.com || fas fa-envelope
+  GitHub: https://github.com/shanru-wang || fab fa-github
+  Weibo: https://weibo.com/u/7504998369 || fab fa-weibo
 
 
 # Google Adsense广告代码
@@ -33,7 +32,7 @@ google_adsense:
 # 文末结束语
 passage_end_tag:
   enabled: true
-  text: --- 本文结束 <i class="fas fa-heart"></i> The End ---
+  text: --- The End ---
 
 # 数学公式渲染
 math:
