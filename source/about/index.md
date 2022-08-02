@@ -1,5 +1,5 @@
 --- 
-title: About 
+About Us 
 ---
 ##### Kamacite is a non-profit organisation made by two middle school students in Shanghai, PR China.
 ##### We want to use this program to blog and to experiment.
