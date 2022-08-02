@@ -6,7 +6,7 @@ language: zh-CN
 menu:
   Home: /
   About: /about
-  Friendly link: /https://qizhen-yang.cn
+  Friendly link: https://qizhen-yang.cn
   #Archives: /archives
   
 social:
