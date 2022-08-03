@@ -56,7 +56,7 @@ index_generator:
   order_by: -date
   
 # Category & Tag
-default_category: uncategorized
+default_category: 日常
 category_map:
 tag_map:
 
@@ -75,7 +75,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: hexo-theme-insulin-master
+theme: hexo-theme--master
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
