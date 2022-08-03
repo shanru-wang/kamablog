@@ -17,7 +17,7 @@ social:
 # Highlight.js
 # Theme: https://highlightjs.org/static/demo/
 highlight:
-  enable: false
+  enable: true
   theme: default
 
 # Prettify
@@ -26,8 +26,8 @@ prettify:
   enable: false
   theme: tomorrow
 
-footer:
-  owner:
+footer: We code to serve the world.
+  owner: Shanru Wang and Qizhen Yang
     enable: true
     since: 2019
   custom_text: Coding to serve the world since long.
