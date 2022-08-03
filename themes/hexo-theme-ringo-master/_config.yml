@@ -17,7 +17,7 @@ social:
 # Highlight.js
 # Theme: https://highlightjs.org/static/demo/
 highlight:
-  enable: true
+  enable: false
   theme: default
 
 # Prettify
