@@ -3,12 +3,12 @@ avatar: /images/avatar.webp
 favicon: /images/favicon.ico
 excerpt_length: 300 #自动生成的摘要长度 建议文章中手动使用 <!--more--> 效果更佳 
 grey_mode: false
-since: 2015
+since: 2019
 
 #####侧边栏#####
 # 菜单
 menu:
-  archives: /archives/ || archive
+  #archives: /archives/ || archive
   about: /about/ || account_circle
   我朋友的博客: https://qizhen-yang.cn || rss_feed
   说明文档: https://garybear.cn/hexo-theme-insulin/doc/#/ || insert_drive_file
